@@ -16,7 +16,7 @@
 在解释器提示符中输入:
 
 
-```
+```python
 print('Hello Python')
 ```
  
@@ -59,7 +59,7 @@ Linux、Mac OS： Ctrl + D 再按下Enter
 
 在编辑器中输入以下代码：
 
-```
+```python
 """第一个Python程序"""
 # -*- coding: UTF-8 -*-
 print('Hello Python')

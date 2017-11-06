@@ -24,6 +24,8 @@ print('Hello Python')
 
 ![Hello Python](assets/images/2017-07-04-15-58-28.png)
 
+
+
 ## 如何退出解释器提示符
 
 输入 `exit()` 即可退出解释器提示符。
